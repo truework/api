@@ -8,6 +8,12 @@ Resources and links for the official Truework API.
 - 🏠 [Truework](https://www.truework.com)
 - 👷‍♀️ [Careers](https://www.truework.com/careers)
 
+## SDKs
+
+- [Python](https://github.com/truework/truework-sdk-python)
+- [Ruby](https://github.com/truework/truework-sdk-ruby)
+- [Node](https://github.com/truework/truework-sdk-node)
+
 ## Issues
 
 This repo also serves as a public issue tracker. If you think you've found a
